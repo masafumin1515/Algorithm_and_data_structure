@@ -17,7 +17,7 @@ int main() {
   int N;
   cin >> N;
   vector<Interval> inter(N);
-  for (int = 0; i < N; ++i) {
+  for (int i = 0; i < N; ++i) {
     cin >> inter[i].first >> inter[i].second;
   }
 
