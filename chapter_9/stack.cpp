@@ -19,7 +19,7 @@ bool isEmpty() {
 
 // スタックが満杯かどうか判定する
 bool isFull() {
-	retun (top == MAX);
+	return (top == MAX);
 }
 
 // push 
