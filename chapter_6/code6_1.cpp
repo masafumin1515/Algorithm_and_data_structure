@@ -3,7 +3,7 @@
 using namespace std;
 
 const int N = 8;
-const vector<int, 8> a = {3, 5, 8, 10, 14, 17, 21, 39};
+const vector<int> a = {3, 5, 8, 10, 14, 17, 21, 39};
 
 // 目的の値 key の添字を返す（存在しない場合は -1）
 int binary_search(int key) {
